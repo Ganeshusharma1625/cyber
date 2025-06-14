@@ -1,7 +1,7 @@
 from flask import Flask, render_template, request
 import pandas as pd
 import plotly.express as px
-import plotly.graph_objects as go
+import plotly.graph_objects as go 
 
 app = Flask(__name__)
 
